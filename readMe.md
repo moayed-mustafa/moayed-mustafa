@@ -7,4 +7,5 @@
 - things I like to do: play basketball 🏀 ,read books📖  and learn human labguages 🈵.
 
 ## Get In touch:
-[<img align = "left" alt ="LinkedIn" width="22px"src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>] LinkedIn
+
+[<img align="left" alt="moayed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
