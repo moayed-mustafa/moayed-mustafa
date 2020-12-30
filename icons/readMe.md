@@ -9,17 +9,8 @@
 
 
 ## Languages and Tools:
-![html](icons/html.png)
-![css](icons/css.png)
-![js](icons/js.png)
-![python](icons/python.png)
-![react](icons/react.png)
-![redux](icons/redux.png)
-![node](icons/node.png)
 ![git](icons/git.png)
 ![github](icons/github.png)
-![terminal](icons/terminal.png)
-
 <!-- <img src="icons/html.png"
      alt="html"
      style=" width:25px " />
