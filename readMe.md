@@ -9,15 +9,16 @@
 
 
 ## Languages and Tools:
+<div style="flex>
 <img src="icons/html.png"
      alt="html"
-     style=" width:25px " />
+     style=" width:5px " />
 <img src="icons/css.png"
      alt="css"
-     style=" width:22px " />
+     style=" width:2px " />
 <img src="icons/js.png"
      alt="js"
-     style=" width:25px " />
+     style=" width:5px " />
 <img src="icons/python.png"
      alt="python"
      style=" width:25px " />
@@ -39,6 +40,7 @@
 <img src="icons/terminal.png"
      alt="terminal"
      style=" width:25px " />
+     </div>
 
 
 <br>
