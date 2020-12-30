@@ -9,16 +9,17 @@
 
 
 ## Languages and Tools:
-<div style="flex>
-<img src="icons/html.png"
+![git](icons/git.png)
+![github](icons/github.png)
+<!-- <img src="icons/html.png"
      alt="html"
-     style=" width:5px " />
+     style=" width:25px " />
 <img src="icons/css.png"
      alt="css"
-     style=" width:2px " />
+     style=" width:22px " />
 <img src="icons/js.png"
      alt="js"
-     style=" width:5px " />
+     style=" width:25px " />
 <img src="icons/python.png"
      alt="python"
      style=" width:25px " />
@@ -39,8 +40,7 @@
      style=" width:25px " />
 <img src="icons/terminal.png"
      alt="terminal"
-     style=" width:25px " />
-     </div>
+     style=" width:25px " /> -->
 
 
 <br>
